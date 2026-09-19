@@ -1,0 +1,89 @@
+{
+  "n": 10,
+  "domain": "ez-v2rayn.com.cn",
+  "name": "Easy v2rayN",
+  "subject": "v2rayN",
+  "theme": "amber",
+  "color": "#854209",
+  "title": "v2rayN 新手下载与 Windows 使用教程",
+  "hero": [
+    "从下载到连接，",
+    "每一步都看得懂。"
+  ],
+  "description": "Easy v2rayN 面向 Windows 新手，提供 v2rayN 原始下载入口、解压启动、订阅导入、系统代理设置、连接验证和网络恢复教程。",
+  "kicker": "WINDOWS / ONE STEP AT A TIME",
+  "focus": "Windows 新手路径",
+  "repo": "2dust/v2rayN",
+  "intro": "先确认程序能启动，再导入配置、开启代理、检查连接。用简单的检查顺序减少反复试错。",
+  "related": [
+    [
+      "xmmclash.com.cn",
+      "小猫咪 Clash",
+      "对照不同 Windows 客户端的接管方式",
+      4174
+    ],
+    [
+      "flclashash.com.cn",
+      "FlClash 中文指南",
+      "查阅下载文件校验与升级准备",
+      4177
+    ]
+  ],
+  "paths": [
+    "choose-client",
+    "import-subscription",
+    "proxy-first-run",
+    "troubleshooting",
+    "restore-network",
+    "backup-folder"
+  ],
+  "repository": "2dust/v2rayN",
+  "previewPort": 4182,
+  "verified": "2026-09-20",
+  "categories": [
+    [
+      "downloads",
+      "v2rayN 下载",
+      "核对系统、架构与原始发布来源。"
+    ],
+    [
+      "tutorials",
+      "使用教程",
+      "从准备到首次连接，按步骤完成。"
+    ],
+    [
+      "configuration",
+      "配置指南",
+      "理解订阅、路由与备份的边界。"
+    ],
+    [
+      "troubleshooting",
+      "问题排查",
+      "先记录现象，再逐层定位原因。"
+    ]
+  ],
+  "featuredGuides": [
+    "choose-client",
+    "import-subscription",
+    "proxy-first-run",
+    "troubleshooting",
+    "restore-network",
+    "backup-folder"
+  ],
+  "relatedSites": [
+    {
+      "domain": "xmmclash.com.cn",
+      "name": "小猫咪 Clash",
+      "reason": "对照不同 Windows 客户端的接管方式",
+      "port": 4174,
+      "published": false
+    },
+    {
+      "domain": "flclashash.com.cn",
+      "name": "FlClash 中文指南",
+      "reason": "查阅下载文件校验与升级准备",
+      "port": 4177,
+      "published": false
+    }
+  ]
+}
